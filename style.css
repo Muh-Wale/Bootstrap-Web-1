@@ -1,0 +1,59 @@
+.bg-pic1{
+    background-image:url("banner.jpg");
+    height: 50vh;    
+    
+}
+.container{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.middle-bar{
+    background-color: black;
+    color: white;
+    height: 30vh;
+    position: relative;
+}
+.number{
+    font-size: 150px;
+    margin-left: 80px;
+}
+.prod{
+    margin-right: 400px;
+    margin-left: 40px;
+}
+.info{
+    margin-right: 50px;
+    position: absolute;
+    z-index: 1;
+    bottom: 30px;
+    left: 900px;
+}
+.info .h-info{
+    height: 90px;
+    padding: 10px;
+    
+}
+.about-menu{
+    margin: 30px 30px 50px 0px;
+}
+.img-menu{
+    padding-left: 90px;
+}
+.mean{
+    background-color: rgb(228, 228, 40);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
